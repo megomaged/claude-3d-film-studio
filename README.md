@@ -4,12 +4,14 @@
 
 <table>
   <tr>
-    <td><a href="examples/ev-motor.md"><img src="gallery/ev-motor/hero.gif" width="420" alt="Exploded view of an electric motor: covers, housing, cooling helix, stator, copper hairpin windings and rotor separating along one axis"></a></td>
-    <td><a href="examples/human-anatomy.md"><img src="gallery/human-anatomy/hero.gif" width="420" alt="The human heart beating inside the translucent rib cage and lungs"></a></td>
+    <td><a href="examples/ev-motor.md"><img src="gallery/ev-motor/hero.gif" width="300" alt="Exploded view of an electric motor: covers, housing, cooling helix, stator, copper hairpin windings and rotor separating along one axis"></a></td>
+    <td><a href="examples/human-anatomy.md"><img src="gallery/human-anatomy/hero.gif" width="300" alt="The human heart beating inside the translucent rib cage and lungs"></a></td>
+    <td><a href="examples/mounjaro-tirzepatide.md"><img src="gallery/mounjaro/hero.gif" width="300" alt="Tirzepatide approaching and binding the GIP receptor (PDB 7FIY) in a lipid bilayer"></a></td>
   </tr>
   <tr>
     <td align="center"><b>How an EV motor works</b><br>procedural engineering · 1200 frames</td>
     <td align="center"><b>The human body, system by system</b><br>Z-Anatomy / BodyParts3D · 1200 frames</td>
+    <td align="center"><b>Tirzepatide, dual-receptor MOA</b><br>RCSB PDB cryo-EM + BodyParts3D · 1200 frames</td>
   </tr>
 </table>
 
@@ -43,12 +45,13 @@ Everything here comes from three films made end to end this way. The pitfalls th
 |---|---|---|---|
 | **How an EV motor works**: hero, labelled internals, exploded view, three-phase field, cross-section, high-speed cooling | 100 % procedural PMSM: 48-slot stator, 192 hairpins, 64 magnets, bearings, bolts | 1200 frames in 12 min | [examples/ev-motor.md](examples/ev-motor.md) |
 | **The human body**: skin scan, systems, exploded anatomy, heart/lungs/nerves, capillary micro-journey | Z-Anatomy: 22 GLBs, 1626 nodes, 3.16 M triangles | 1200 frames in 10.5 min | [examples/human-anatomy.md](examples/human-anatomy.md) |
-| **Tirzepatide, dual-receptor MOA**: pen → skin → blood → receptors → organs | PDB 7FIY / 7FIM cryo-EM + BodyParts3D | in production | [examples/mounjaro-tirzepatide.md](examples/mounjaro-tirzepatide.md) |
+| **Tirzepatide, dual-receptor MOA**: pen → skin → blood → receptors → organs | PDB 7FIY / 7FIM cryo-EM + BodyParts3D | 1200 frames | [examples/mounjaro-tirzepatide.md](examples/mounjaro-tirzepatide.md) |
 
 | | | |
 |---|---|---|
 | ![EV motor: exploded view](gallery/ev-motor/03.jpg) | ![EV motor: three-phase field](gallery/ev-motor/04.jpg) | ![EV motor: cross-section](gallery/ev-motor/05.jpg) |
 | ![Anatomy: heart](gallery/human-anatomy/02.jpg) | ![Anatomy: inside an arteriole](gallery/human-anatomy/05.jpg) | ![Anatomy: capillary and red blood cells](gallery/human-anatomy/06.jpg) |
+| ![Tirzepatide: GIP receptor on the membrane](gallery/mounjaro/03.jpg) | ![Tirzepatide: pancreatic islet](gallery/mounjaro/04.jpg) | ![Tirzepatide: brain, appetite regions](gallery/mounjaro/05.jpg) |
 
 ---
 
@@ -147,7 +150,7 @@ Created by **Maged El-Gohary**. The method, recipes, starter code and scripts ar
 | [OPM](https://opm.phar.umich.edu) membrane orientations | free for academic / non-commercial use | cite Lomize et al., *NAR* 2012 |
 | Music and SFX | the licence of wherever you get them | use only tracks you are allowed to publish |
 
-The gallery stills and GIFs are frames from the two delivered films. The anatomy frames come from its social-safe cut. Those films use Z-Anatomy / BodyParts3D models (CC BY-SA 4.0 / 2.1 JP), so the anatomy images are shared under CC BY-SA 4.0 with that credit.
+The gallery stills and GIFs are frames from the three delivered films. The anatomy frames come from its social-safe cut. Those films use Z-Anatomy / BodyParts3D models (CC BY-SA 4.0 / 2.1 JP), so the anatomy images are shared under CC BY-SA 4.0 with that credit.
 
 Built on [three.js](https://threejs.org) (MIT), [Puppeteer](https://pptr.dev) (Apache-2.0), [ffmpeg](https://ffmpeg.org), [Blender](https://www.blender.org), [gemmi](https://gemmi.readthedocs.io), [scikit-image](https://scikit-image.org), [trimesh](https://trimesh.org).
 
