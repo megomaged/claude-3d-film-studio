@@ -4,14 +4,14 @@
 
 <table>
   <tr>
-    <td><a href="examples/ev-motor.md"><img src="gallery/ev-motor/hero.gif" width="260" alt="Exploded view of an electric motor: covers, housing, cooling helix, stator, copper hairpin windings and rotor separating along one axis"></a></td>
-    <td><a href="examples/human-anatomy.md"><img src="gallery/human-anatomy/hero.gif" width="260" alt="The human heart beating inside the translucent rib cage and lungs"></a></td>
-    <td><a href="examples/mounjaro-tirzepatide.md"><img src="gallery/mounjaro/hero.gif" width="260" alt="Tirzepatide approaching and binding the GIP receptor (PDB 7FIY) in a lipid bilayer"></a></td>
+    <td><a href="examples/ev-motor.md"><img src="gallery/ev-motor/hero.gif" width="240" alt="Exploded view of an electric motor: covers, housing, cooling helix, stator, copper hairpin windings and rotor separating along one axis"></a></td>
+    <td><a href="examples/human-anatomy.md"><img src="gallery/human-anatomy/hero.gif" width="240" alt="The human heart beating inside the translucent rib cage and lungs"></a></td>
+    <td><a href="examples/mounjaro-tirzepatide.md"><img src="gallery/mounjaro/hero.gif" width="240" alt="Tirzepatide approaching and binding the GIP receptor (PDB 7FIY) in a lipid bilayer"></a></td>
   </tr>
   <tr>
-    <td align="center"><b>How an EV motor works</b><br>procedural engineering · 1200 frames</td>
-    <td align="center"><b>The human body, system by system</b><br>Z-Anatomy / BodyParts3D · 1200 frames</td>
-    <td align="center"><b>Tirzepatide, dual-receptor MOA</b><br>RCSB PDB cryo-EM + BodyParts3D · 1200 frames</td>
+    <td align="center"><b>How an EV motor works</b><br>procedural · 1200 frames</td>
+    <td align="center"><b>The human body</b><br>Z-Anatomy · 1200 frames</td>
+    <td align="center"><b>How Mounjaro works</b><br>PDB cryo-EM · 1200 frames</td>
   </tr>
 </table>
 
