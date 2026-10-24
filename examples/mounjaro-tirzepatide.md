@@ -1,6 +1,6 @@
 # Example: Tirzepatide, a dual-receptor mechanism of action (40 s, four scales)
 
-> **Status: in production.** The brief, timeline and asset pipeline below are final. The gallery is a TODO and will be added when the film is delivered (`gallery/mounjaro/`).
+> **Status: delivered** (1200 frames, 40.000 s, 1920×1080). Stills and the hero GIF are in [`gallery/mounjaro/`](../gallery/mounjaro/).
 
 ## The brief (summarised)
 
@@ -61,4 +61,9 @@ Build scripts: `templates/scripts/pdb_to_mesh.py` (SES surfaces, nm units, `_CAV
 
 ## Stills
 
-TODO: add 6 stills + `hero.gif` from the delivered MP4 to `gallery/mounjaro/` and link them here.
+<img src="../gallery/mounjaro/hero.gif" width="560" alt="Tirzepatide approaching and binding the GIP receptor in the membrane">
+
+| | | |
+|---|---|---|
+| ![Generic injection pen](../gallery/mounjaro/01.jpg) | ![Skin cross-section, needle tip in subcutaneous fat](../gallery/mounjaro/02.jpg) | ![GIP receptor (PDB 7FIY) on the lipid bilayer](../gallery/mounjaro/03.jpg) |
+| ![Pancreatic islet: β- and α-cells](../gallery/mounjaro/04.jpg) | ![Brain: appetite-related regions](../gallery/mounjaro/05.jpg) | ![Final title over the body](../gallery/mounjaro/06.jpg) |
