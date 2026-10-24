@@ -4,9 +4,9 @@
 
 <table>
   <tr>
-    <td><a href="examples/ev-motor.md"><img src="gallery/ev-motor/hero.gif" width="300" alt="Exploded view of an electric motor: covers, housing, cooling helix, stator, copper hairpin windings and rotor separating along one axis"></a></td>
-    <td><a href="examples/human-anatomy.md"><img src="gallery/human-anatomy/hero.gif" width="300" alt="The human heart beating inside the translucent rib cage and lungs"></a></td>
-    <td><a href="examples/mounjaro-tirzepatide.md"><img src="gallery/mounjaro/hero.gif" width="300" alt="Tirzepatide approaching and binding the GIP receptor (PDB 7FIY) in a lipid bilayer"></a></td>
+    <td><a href="examples/ev-motor.md"><img src="gallery/ev-motor/hero.gif" width="260" alt="Exploded view of an electric motor: covers, housing, cooling helix, stator, copper hairpin windings and rotor separating along one axis"></a></td>
+    <td><a href="examples/human-anatomy.md"><img src="gallery/human-anatomy/hero.gif" width="260" alt="The human heart beating inside the translucent rib cage and lungs"></a></td>
+    <td><a href="examples/mounjaro-tirzepatide.md"><img src="gallery/mounjaro/hero.gif" width="260" alt="Tirzepatide approaching and binding the GIP receptor (PDB 7FIY) in a lipid bilayer"></a></td>
   </tr>
   <tr>
     <td align="center"><b>How an EV motor works</b><br>procedural engineering · 1200 frames</td>
